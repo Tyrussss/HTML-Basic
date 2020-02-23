@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>INDEX</title>
+</head>
+
+<body bgcolor="#b8860b" text="Arial">
+    <h1 align="center">
+        DAI HOC QUOC GIA TP.HCM
+    </H1>
+    <hr align="center" width="300" size="1" color="000000">
+    <H3 align="center"> DAI HOC KHOA HOC TU NHIEN </H3>
+    <H1 align="center"> TRUNG CAP
+        <br> DO HOA<br> DA
+        <br> TRUYEN THONG </H1>
+    <hr align="center" width="300" size="1" color="000000">
+    <h6 align="center">Lien he: 227 Nguyen Van Cu, Q.5 <br> Tel: (08) 8887756
+        <br> http://www.csc.hcmu.edu.vn</h6>
+</body>
+
+</html>
